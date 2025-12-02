@@ -59,3 +59,7 @@ Análisis específico del año 2025:
 * `json`
 *  `glob`
 * `Jupyter Notebook`
+
+## Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE). Eres libre de usar, modificar y compartir el código, siempre que se respete la atribución del autor original.
